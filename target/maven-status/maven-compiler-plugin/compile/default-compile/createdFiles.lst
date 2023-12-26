@@ -1,0 +1,11 @@
+ir\compe\thefly\CommandAuthor.class
+ir\compe\thefly\EventBedEnter.class
+ir\compe\thefly\CommandInfo.class
+ir\compe\thefly\EventRespawn.class
+ir\compe\thefly\CommandExposure.class
+ir\compe\thefly\CommandJoke.class
+ir\compe\thefly\TheFly.class
+ir\compe\thefly\CommandLearn.class
+ir\compe\thefly\EventBedLeave.class
+ir\compe\thefly\myevent.class
+ir\compe\thefly\CommandMoneyList.class

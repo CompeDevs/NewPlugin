@@ -1,0 +1,25 @@
+name: CoCoolEvents
+version: '1.8'
+main: ir.compe.thefly.TheFly
+api-version: '1.20'
+commands:
+  CoCoolEvents:
+    description: Plugin Info
+    aliases:
+      - co
+      - cool
+      - cocool
+      - cc
+      - Events
+      - salam
+      - fuck
+  Joke:
+    description: A Random Joke
+    aliases:
+      - j
+      - jk
+      - jok
+      - jo
+      - jokee
+      - Jookea
+      - noope
